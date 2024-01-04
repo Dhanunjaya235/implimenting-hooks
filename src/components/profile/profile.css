@@ -1,0 +1,25 @@
+.details{
+    text-align: center;
+    align-items: center;
+    color:crimson;
+    font-weight: bolder;
+}
+
+.profile{
+    margin-top: 100px;
+}
+
+.profile button{
+    backface-visibility: hidden;
+    background-color: #2f80ed;
+    border-radius: 10px;
+    border-style: none;
+    font-family: Inter, -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    height: 30px;
+    box-shadow: none;
+    color: #fff;
+    cursor: pointer;
+    margin-left: 48%;
+}

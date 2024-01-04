@@ -1,0 +1,16 @@
+.parentnav{
+    width: 100%;
+    height: 50px;
+    background-color: cadetblue;
+}
+.parentnav ul li{
+    float: left;
+    padding: 15px;
+}
+
+.parentnav ul{
+    text-decoration: none;
+    list-style: none;
+    font: "Proxima Nova";
+    color: #FFFFFF;
+}
